@@ -13,8 +13,8 @@ Bu depoda şu bölümleri bulabilirsiniz:
    - [Temel tanımlar](https://github.com/huseyinakgull/OpenXR-Turkce-Rehber/blob/main/temel_tanimlar.md) ve [tarihçe](https://github.com/huseyinakgull/OpenXR-Turkce-Rehber/blob/main/tarihce.md)
    - [OpenXR'ın avantajları ve kullanım alanları](https://github.com/huseyinakgull/OpenXR-Turkce-Rehber/blob/main/avantajlar_ve_kullanim.md)
 2. **Kurulum Rehberi**
-   - OpenXR SDK'nın indirilmesi ve kurulumu
-   - Geliştirme ortamı hazırlığı (ör. Unity)
+   - [OpenXR SDK'nın indirilmesi ve kurulumu](https://github.com/huseyinakgull/OpenXR-Turkce-Rehber/blob/main/kurulum.md)
+   - [Geliştirme ortamı hazırlığı (ör. Unity)](https://github.com/huseyinakgull/OpenXR-Turkce-Rehber/blob/main/geliştirme_ortami.md)
 3. **Temel Kavramlar**
    - Runtime, session, action gibi terimlerin açıklamaları
    - OpenXR mimarisi
