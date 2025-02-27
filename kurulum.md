@@ -26,7 +26,7 @@ OpenXR ile uygulama geliştirmeye başlamak için önce OpenXR SDK’yı (yazıl
   3. Çalıştırın ve OpenXR’ın aktif olduğunu kontrol edin.
 - Eğer bir VR cihazınız varsa, bağlayıp örneği test edebilirsiniz.
 
-### Adım 5: Oyun Motorlarıyla Kullanım (Opsiyonel)
+### Adım 5: Oyun Motorlarıyla Kullanım (Tarafımca Önerilen.)
 - **Unity**: Unity Hub’dan yeni bir proje açın, ardından OpenXR desteğini “Package Manager”dan ekleyin.
 - **Unreal Engine**: Motoru kurduktan sonra proje ayarlarından OpenXR’ı etkinleştirin.
 - Bu motorlar SDK’yı otomatik kullanır, sizin ekstra bir şey yapmanıza gerek kalmaz.
