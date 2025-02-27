@@ -1,4 +1,4 @@
-# OpenXR Türkçe Dökümasyon Deposu
+# OpenXR Türkçe Rehber
 
 Merhaba! Bu depo, OpenXR teknolojisi hakkında Türkçe dökümantasyon ve kaynaklar sunmayı amaçlamaktadır. OpenXR, sanal gerçeklik (VR) ve artırılmış gerçeklik (AR) uygulamaları geliştirmek için açık bir standarttır ve geliştiricilere platformlar arası uyumluluk sağlar. Türkçe içerik eksikliğini fark ettiğimiz için bu projeyi geliştirmeye karar verdik. Katkılarınızı bekliyoruz!
 
