@@ -10,8 +10,8 @@ Merhaba! Bu depo, OpenXR teknolojisi hakkında Türkçe dökümantasyon ve kayna
 ## İçerik Planı
 Bu depoda şu bölümleri bulabilirsiniz:
 1. **OpenXR Nedir?**
-   - Temel tanımlar ve tarihçe
-   - OpenXR'ın avantajları ve kullanım alanları
+   - [Temel tanımlar](https://github.com/huseyinakgull/OpenXR-Turkce-Rehber/blob/main/temel_tanimlar.md) ve [tarihçe](https://github.com/huseyinakgull/OpenXR-Turkce-Rehber/blob/main/tarihce.md)
+   - [OpenXR'ın avantajları ve kullanım alanları](https://github.com/huseyinakgull/OpenXR-Turkce-Rehber/blob/main/avantajlar_ve_kullanim.md)
 2. **Kurulum Rehberi**
    - OpenXR SDK'nın indirilmesi ve kurulumu
    - Geliştirme ortamı hazırlığı (ör. Unity)
